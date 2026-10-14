@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-# git-lab
-实验一创建仓库
-=======
-# Git 操作实验
->>>>>>> 27f1bcd (first commit)
+这是 main 分支的修改
